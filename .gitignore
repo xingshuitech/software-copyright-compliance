@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+*.docx
+*.pdf
+*.zip
+
+.DS_Store
+Thumbs.db
+desktop.ini
